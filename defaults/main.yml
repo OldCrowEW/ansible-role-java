@@ -1,0 +1,6 @@
+---
+# defaults file for ansible-role-java
+java_pkg_state: "present"
+java_version: "1.8.0"
+java_pkgs:
+  - "java-{{ java_version }}"

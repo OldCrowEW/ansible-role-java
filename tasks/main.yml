@@ -1,0 +1,6 @@
+---
+# tasks file for ansible-role-java
+- name: Install Java
+  yum:
+    name: "{{ java_pkgs }}"
+    state: "{{ java_pkg_state }}"

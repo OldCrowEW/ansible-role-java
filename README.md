@@ -1,5 +1,6 @@
 java
 =========
+[![Build Status](https://travis-ci.org/OldCrowEW/ansible-role-java.svg?branch=master)](https://travis-ci.org/OldCrowEW/ansible-role-java)
 
 Install java, general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible
 
